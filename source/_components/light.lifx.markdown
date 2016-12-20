@@ -18,8 +18,8 @@ The `lifx` platform allows you to integrate your [LIFX](http://www.lifx.com) int
 ```yaml
 # Example configuration.yaml entry
 light:
-  - platform: lifx
-  - broadcast: 192.168.1.255
+  platform: lifx
+  broadcast: 192.168.1.255
 ```
 Configuration variables:
 
